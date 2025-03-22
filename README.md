@@ -4,7 +4,7 @@ This repository contains various **MERN stack** projects built using **MongoDB, 
 
 ## 📌 Projects  
 
-### 1️⃣ [To-Do List](./To-Do-List)  
+### 1️⃣ [To-Do List](./To-Do List)  
 A task management app with CRUD operations.  
 
 ## ⚡ What's Inside  
